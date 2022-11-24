@@ -1,1 +1,2 @@
 hello world!
+This edit is to learn how to write commit messages.
